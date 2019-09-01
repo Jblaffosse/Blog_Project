@@ -1,6 +1,14 @@
 # BlogActivityProjectAngular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.1. 
+
+## Start the blog
+
+**IF YOU WANT TO START THE BLOG YOU NEED TO:**
+
+* Install all the dependencies with `npm install`.
+* Compile and start the server with `ng serve`.
+* Navigate to the blog to `http://localhost:4200/`.
 
 ## Development server
 
